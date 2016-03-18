@@ -1,4 +1,4 @@
-give @p written_book 1 0 {title:"Magic Book",author:"The_Webmage",pages:[
+give @p written_book 1 0 {title:"Livre Trop Cool v1.0",author:"RadYio",pages:[
 
 "{text:'Clear\n\n',extra:[
 	{text:'* Entitées\n',color:black}, 
